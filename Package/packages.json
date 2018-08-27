@@ -1,0 +1,443 @@
+{
+  "PackageCount": 3,
+  "LatestUpdate": "2018-08-06T09:48:42.5445193+09:00",
+  "Elements": [
+    {
+      "Name": "히토미 카피 개발자 추천 작가 패키지 (로리)",
+      "Nickname": "Hitomi Copy Developer",
+      "Description": "로리 관련 작가를 선별해봤습니다 ㅇㅅㅇ\r\n\r\n2분류 << 1분류 << 3분류",
+      "ImageLink": "https://raw.githubusercontent.com/dc-koromo/hitomi-downloader-2/master/Package/Image/koromo2.jpg",
+      "LatestUpdate": "2018-08-05T11:58:52.8613783+09:00",
+      "Artists": [
+        {
+          "Item1": "1분류",
+          "Item2": "quzilax"
+        },
+        {
+          "Item1": "1분류",
+          "Item2": "mochi"
+        },
+        {
+          "Item1": "1분류",
+          "Item2": "asanagi"
+        },
+        {
+          "Item1": "1분류",
+          "Item2": "dancyo"
+        },
+        {
+          "Item1": "2분류",
+          "Item2": "kiya shii"
+        },
+        {
+          "Item1": "2분류",
+          "Item2": "kanyapyi"
+        },
+        {
+          "Item1": "2분류",
+          "Item2": "yukiu con"
+        },
+        {
+          "Item1": "2분류",
+          "Item2": "haguhagu"
+        },
+        {
+          "Item1": "2분류",
+          "Item2": "henreader"
+        },
+        {
+          "Item1": "2분류",
+          "Item2": "maki"
+        },
+        {
+          "Item1": "2분류",
+          "Item2": "hisasi"
+        },
+        {
+          "Item1": "2분류",
+          "Item2": "noise"
+        },
+        {
+          "Item1": "2분류",
+          "Item2": "kinku"
+        },
+        {
+          "Item1": "2분류",
+          "Item2": "okada kou"
+        },
+        {
+          "Item1": "2분류",
+          "Item2": "atage"
+        },
+        {
+          "Item1": "3분류",
+          "Item2": "miwa futaba"
+        },
+        {
+          "Item1": "3분류",
+          "Item2": "mamezou"
+        },
+        {
+          "Item1": "3분류",
+          "Item2": "ichihaya"
+        },
+        {
+          "Item1": "3분류",
+          "Item2": "tanaka decilitre"
+        },
+        {
+          "Item1": "3분류",
+          "Item2": "kannazuki motofumi"
+        },
+        {
+          "Item1": "3분류",
+          "Item2": "panbai"
+        },
+        {
+          "Item1": "3분류",
+          "Item2": "fuyuno mikan"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "gengorou"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "shouji ayumu"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "rico"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "shimanto shisakugata"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "yuizaki kazuya"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "tamano kedama"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "urajirou"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "shirane taito"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "usashiro mani"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "gomennasai"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "sekiya asami"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "inuboshi"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "higashiyama show"
+        }
+      ],
+      "Articles": [],
+      "Etc": []
+    },
+    {
+      "Name": "히토미 카피 개발자 추천 작가 패키지",
+      "Nickname": "Hitomi Copy Developer",
+      "Description": "안녕하세요? 히토미 카피 개발자 dc-koromo입니다.\r\n이번 3.42 버전에 새로 추가된 패키지 뷰어 기능을 기념하기 위해 첫번재 패키지를 업로드했습니다. 이 패키지에 포함된 작가는 모두 순애물 작가입니다. 한 번쯤들어본 나름 유명한 작가들로만 구성했으니 천천히 확인해보세여.\r\n\r\n * 여러분도 패키지 제작에 동참하실 수 있습니다!\r\n * 링크 : https://docs.google.com/forms/d/19mdFdAaFjJ3A0hPLQ6dw7cOJSCj8enEBYw0ezBVJzHU/edit",
+      "ImageLink": "https://raw.githubusercontent.com/dc-koromo/hitomi-downloader-2/master/Package/Image/koromo.png",
+      "LatestUpdate": "2018-08-04T20:17:29.4185222+09:00",
+      "Artists": [
+        {
+          "Item1": "미분류",
+          "Item2": "ichimatsu"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "e-musu aki"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "fujimaru"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "kizuka kazuki"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "john k. pe-ta"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "sanjuurou"
+        },
+        {
+          "Item1": "미분류",
+          "Item2": "azuma tesshin"
+        },
+        {
+          "Item1": "귀여운 그림체",
+          "Item2": "kamizuki shiki"
+        },
+        {
+          "Item1": "귀여운 그림체",
+          "Item2": "thikiso takeda"
+        },
+        {
+          "Item1": "노출",
+          "Item2": "otabe_sakura"
+        },
+        {
+          "Item1": "노출",
+          "Item2": "tsuttsu"
+        },
+        {
+          "Item1": "로리",
+          "Item2": "tanabe kyou"
+        },
+        {
+          "Item1": "로리",
+          "Item2": "kinnotama"
+        },
+        {
+          "Item1": "로리",
+          "Item2": "haguhagu"
+        },
+        {
+          "Item1": "로리",
+          "Item2": "mitsudoue"
+        },
+        {
+          "Item1": "로리",
+          "Item2": "yone kinji"
+        },
+        {
+          "Item1": "로리",
+          "Item2": "tamagoro"
+        },
+        {
+          "Item1": "로리",
+          "Item2": "azuma_sawayoshi"
+        },
+        {
+          "Item1": "로리",
+          "Item2": "misao."
+        },
+        {
+          "Item1": "로리",
+          "Item2": "ohisashiburi"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "kotengu"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "hinahara_emi"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "kakao"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "michiking"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "pyon-kti"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "regdic"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "akagi_asahito"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "kyockcho"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "hamao"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "mikuni_mizuki"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "meganei"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "key"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "goban"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "ikuhana niro"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "homunculus"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "yamada yuuya"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "doumou"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "katsurai_yoshiaki"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "botan_mochito"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "umakuchi_shouyu"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "hinasaki yo"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "hinasaki_yo"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "suihei sen"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "momoko"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "meme50"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "tomohiro_kai"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "hiten"
+        },
+        {
+          "Item1": "ㅇㅅㅇ",
+          "Item2": "emily"
+        },
+        {
+          "Item1": "오네 쇼타",
+          "Item2": "morishima kon"
+        },
+        {
+          "Item1": "오네 쇼타",
+          "Item2": "tachibana omina"
+        },
+        {
+          "Item1": "이상한 그림체",
+          "Item2": "taniguchi-san"
+        },
+        {
+          "Item1": "이상한 그림체",
+          "Item2": "pija"
+        },
+        {
+          "Item1": "이상한 그림체",
+          "Item2": "fuuga"
+        },
+        {
+          "Item1": "이상한 그림체",
+          "Item2": "shimanto shisakugata"
+        },
+        {
+          "Item1": "이상한 그림체",
+          "Item2": "akitsuki itsuki"
+        },
+        {
+          "Item1": "이상한 그림체",
+          "Item2": "mizutani tooru"
+        },
+        {
+          "Item1": "펨돔",
+          "Item2": "hiroe rei"
+        },
+        {
+          "Item1": "펨돔",
+          "Item2": "takei_ooki"
+        },
+        {
+          "Item1": "펨돔",
+          "Item2": "parabola"
+        },
+        {
+          "Item1": "펨돔",
+          "Item2": "2t"
+        },
+        {
+          "Item1": "펨돔",
+          "Item2": "akai mato"
+        },
+        {
+          "Item1": "펨돔",
+          "Item2": "mame"
+        },
+        {
+          "Item1": "펨돔",
+          "Item2": "oouso"
+        },
+        {
+          "Item1": "펨돔",
+          "Item2": "shindou"
+        },
+        {
+          "Item1": "펨돔",
+          "Item2": "hanabi"
+        }
+      ],
+      "Articles": [],
+      "Etc": []
+    },
+    {
+      "Name": "익헨 접속 문제에 대한 안내",
+      "Nickname": "Hitomi Copy Developer",
+      "Description": "익헨 접속 문제가 발견되어 문제를 해결한 임시 업데이트 버전을 배포합니다.\r\nhttps://github.com/dc-koromo/hitomi-downloader-2/releases/tag/3.42\r\n필요하신 분은 여기서 다운로드 받으세요.",
+      "ImageLink": "https://raw.githubusercontent.com/dc-koromo/hitomi-downloader-2/master/Package/Image/panda.jpg",
+      "LatestUpdate": "2018-08-06T09:47:56.1609319+09:00",
+      "Artists": [
+        {
+          "Item1": "겐고로",
+          "Item2": "tagame gengoroh"
+        }
+      ],
+      "Articles": [],
+      "Etc": []
+    }
+  ]
+}
