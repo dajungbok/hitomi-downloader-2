@@ -6,12 +6,12 @@
 
 ## 다운로드
 
-https://github.com/dc-koromo/hitomi-downloader-2/releases/tag/3.45
-
-위 링크를 타고, Hitomi.Copy.3.exe를 클릭해 다운로드받으면 됩니다.
+Hitomi Copy 3 버전은 더 이상 다운로드받을 수 없습니다.
 
 ## 문의
 
 koromo.software@gmail.com
 
-소스코드, 오류, 버그 등 필요한게 있다면 메일 주세요.
+오류, 버그 등 필요한게 있다면 메일 주세요.
+
+소스코드는 더이상 공개하지 않습니다.
