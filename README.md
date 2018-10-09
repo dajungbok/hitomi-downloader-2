@@ -6,24 +6,10 @@
 
 ## 다운로드
 
-Hitomi Copy 3 버전은 더 이상 다운로드받을 수 없습니다. 업데이트 기능이 비활성화됩니다.
-
-## 데이터 동기화 오류
-
-데이터가 동기화되지 않거나 오류가 발생하는 경우 다음 절차를 통해 다운로드를 시도해보세요.
-
-1. 먼저 https://github.com/dc-koromo/koromo-copy/releases/tag/0.1.0 에서 `Koromo Copy 0.1.0`버전을 다운로드합니다.
-2. GUI 창에서 `metroButton1`을 클릭하여 `Koromo Copy - Metadata Downloader`를 실행합니다.
-3. `Start`버튼을 눌러 다운로드를 시작합니다.
-
-이 방법의 다운로드는 실패하지 않습니다.
-
-평균 25초, 최대 27분 소요 확인.
+히토미 카피의 최신 버전은 다음 URL을 통해 다운로드할 수 있습니다. https://github.com/dc-koromo/hitomi-downloader-2/releases/tag/3.46 히토미 카피의 최신 버전은 변경사항이 있을 때만 업데이트됩니다. 이번 배포는 메타데이터 동기화에 문제가 많아 개선해 줄 것을 요청한 여러 사용자의 의견을 수용한 것입니다.
 
 ## 문의
 
 koromo.software@gmail.com
 
-오류, 버그 등 필요한게 있다면 메일 주세요.
-
-소스코드는 더이상 공개하지 않습니다.
+오류, 버그, 소스코드 등 필요한게 있다면 메일 주세요.
