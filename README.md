@@ -12,6 +12,8 @@ https://github.com/dc-koromo/hitomi-downloader-2/releases/tag/3.46
 
 히토미 카피는 중요한 변경사항이 있을 때만 업데이트됩니다. 이번 배포는 메타데이터 동기화에 문제가 많아 개선해 줄 것을 요청한 여러 사용자의 의견을 수용한 것입니다.
 
+기존 다운로드 방식을 사용하려면, `setting.json`의 `UseDefaultSyncmanager` 항목을 `true`로 변경하세요.
+
 ## 문의
 
 koromo.software@gmail.com
