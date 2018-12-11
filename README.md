@@ -12,7 +12,11 @@ https://github.com/dc-koromo/koromo-copy
 
 여기서 확인해주세요!
 
-## 다운로드
+## 소스코드
+
+Hitomi Copy의 전체 소스코드입니다.
+
+https://github.com/dc-koromo/hitomi-copy
 
 ## 문의
 
